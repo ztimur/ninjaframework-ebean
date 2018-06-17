@@ -1,0 +1,4 @@
+entity-packages: kg.timur.ebean.model
+transactional-packages: kg.timur.ebean
+querybean-packages: kg.timur.ebean
+
